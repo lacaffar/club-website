@@ -100,7 +100,7 @@ input, select, textarea {
 
 	body {
 		background-color: #242024;
-		background-image: linear-gradient(to top, rgba(102, 0, 0, 0.8), rgba(102, 0, 0, 0.8)), url("../../images/bg.jpg");
+		background-image: linear-gradient(to top, rgba(191, 0, 0, 0.8), rgba(191, 0, 0, 0.8)), url("../../images/bg.jpg");
 		background-size: auto,
  cover;
 		background-attachment: fixed,
@@ -2320,7 +2320,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #964c4c;
+			border-color: #BF0000;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2745,7 +2745,7 @@ input, select, textarea {
 				}
 
 				ul.pagination li > .page.active {
-					background-color: #964c4c;
+					background-color: #BF0000;
 				}
 
 			ul.pagination li:first-child {
@@ -2913,7 +2913,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #964c4c;
+			background-color: #BF0000;
 			box-shadow: none;
 		}
 
@@ -3005,7 +3005,7 @@ input, select, textarea {
 
 		.features article {
 			padding: 1.75em 1.75em 0.1em 1.75em ;
-			background-color: #2e2a2e ;
+			background-color: #3a363a ;
 			border-radius: 5px;
 			margin: 1.5em 3em 1.5em 0;
 			width: calc(50% - 1.5em);
@@ -3258,7 +3258,7 @@ input, select, textarea {
 		-ms-user-select: none;
 		user-select: none;
 		-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-		background: rgba(110, 15, 15, 0.8);
+		background: rgba(227, 2, 32, 0.8);
 		cursor: default;
 		height: 100%;
 		left: 0;
@@ -3281,7 +3281,7 @@ input, select, textarea {
 			-ms-transition: opacity 0.35s ease, -ms-transform 0.35s ease;
 			transition: opacity 0.35s ease, transform 0.35s ease;
 			-webkit-overflow-scrolling: touch;
-			background: #964c4c;
+			background: #BF0000;
 			border-radius: 5px;
 			display: block;
 			max-width: 100%;
@@ -3466,7 +3466,7 @@ input, select, textarea {
 			#banner {
 				padding: 7em 0 8.25em 0 ;
 				background-color: #242024;
-				background-image: linear-gradient(to top, rgba(110, 15, 15, 0.8), rgba(110, 15, 15, 0.8)), url("../../images/bg.jpg");
+				background-image: linear-gradient(to top, rgba(227, 2, 32, 0.8), rgba(227, 2, 32, 0.8)), url("../../images/bg.jpg");
 				background-size: auto,
  cover;
 				background-position: center,
@@ -3578,7 +3578,7 @@ input, select, textarea {
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
 			background-color: #242024;
-			background-image: linear-gradient(to top, rgba(110, 15, 15, 0.8), rgba(110, 15, 15, 0.8)), url("../../images/bg.jpg");
+			background-image: linear-gradient(to top, rgba(227, 2, 32, 0.8), rgba(227, 2, 32, 0.8)), url("../../images/bg.jpg");
 			background-size: auto,
  cover;
 			background-position: center,
@@ -3687,7 +3687,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #2e2a2e ;
+			background-color: #3a363a ;
 		}
 
 			.wrapper.style2:before, .wrapper.style2:after {
@@ -3695,15 +3695,15 @@ input, select, textarea {
 			}
 
 			.wrapper.style2:before {
-				box-shadow: inset 0 -1px 0 0 #2e2a2e , 0 1px 0 0 #2e2a2e ;
+				box-shadow: inset 0 -1px 0 0 #3a363a , 0 1px 0 0 #3a363a ;
 			}
 
 			.wrapper.style2:after {
-				box-shadow: inset 0 -1px 0 0 #2e2a2e , 0 1px 0 0 #2e2a2e ;
+				box-shadow: inset 0 -1px 0 0 #3a363a , 0 1px 0 0 #3a363a ;
 			}
 
 		.wrapper.style3 {
-			background-color: #3d4051;
+			background-color: #BF0000;
 		}
 
 			.wrapper.style3:before, .wrapper.style3:after {
@@ -3711,15 +3711,15 @@ input, select, textarea {
 			}
 
 			.wrapper.style3:before {
-				box-shadow: inset 0 -1px 0 0 #3d4051, 0 1px 0 0 #3d4051;
+				box-shadow: inset 0 -1px 0 0 #BF0000, 0 1px 0 0 #BF0000;
 			}
 
 			.wrapper.style3:after {
-				box-shadow: inset 0 -1px 0 0 #3d4051, 0 1px 0 0 #3d4051;
+				box-shadow: inset 0 -1px 0 0 #BF0000, 0 1px 0 0 #BF0000;
 			}
 
 		.wrapper.style4 {
-			background-color: #454858;
+			background-color: #CC0010;
 		}
 
 			.wrapper.style4:before, .wrapper.style4:after {
@@ -3727,15 +3727,15 @@ input, select, textarea {
 			}
 
 			.wrapper.style4:before {
-				box-shadow: inset 0 -1px 0 0 #454858, 0 1px 0 0 #454858;
+				box-shadow: inset 0 -1px 0 0 #CC0010, 0 1px 0 0 #CC0010;
 			}
 
 			.wrapper.style4:after {
-				box-shadow: inset 0 -1px 0 0 #454858, 0 1px 0 0 #454858;
+				box-shadow: inset 0 -1px 0 0 #CC0010, 0 1px 0 0 #CC0010;
 			}
 
 		.wrapper.style5 {
-			background-color: #4d5060;
+			background-color: #E30220;
 		}
 
 			.wrapper.style5:before, .wrapper.style5:after {
@@ -3743,15 +3743,15 @@ input, select, textarea {
 			}
 
 			.wrapper.style5:before {
-				box-shadow: inset 0 -1px 0 0 #4d5060, 0 1px 0 0 #4d5060;
+				box-shadow: inset 0 -1px 0 0 #E30220, 0 1px 0 0 #E30220;
 			}
 
 			.wrapper.style5:after {
-				box-shadow: inset 0 -1px 0 0 #4d5060, 0 1px 0 0 #4d5060;
+				box-shadow: inset 0 -1px 0 0 #E30220, 0 1px 0 0 #E30220;
 			}
 
 		.wrapper.style6 {
-			background-color: #555867;
+			background-color: #F04055;
 		}
 
 			.wrapper.style6:before, .wrapper.style6:after {
@@ -3759,15 +3759,15 @@ input, select, textarea {
 			}
 
 			.wrapper.style6:before {
-				box-shadow: inset 0 -1px 0 0 #555867, 0 1px 0 0 #555867;
+				box-shadow: inset 0 -1px 0 0 #F04055, 0 1px 0 0 #F04055;
 			}
 
 			.wrapper.style6:after {
-				box-shadow: inset 0 -1px 0 0 #555867, 0 1px 0 0 #555867;
+				box-shadow: inset 0 -1px 0 0 #F04055, 0 1px 0 0 #F04055;
 			}
 
 		.wrapper.spotlight {
-			background-color: #964c4c;
+			background-color: #BF0000;
 		}
 
 			.wrapper.spotlight:before, .wrapper.spotlight:after {
@@ -3775,11 +3775,11 @@ input, select, textarea {
 			}
 
 			.wrapper.spotlight:before {
-				box-shadow: inset 0 -1px 0 0 #964c4c, 0 1px 0 0 #964c4c;
+				box-shadow: inset 0 -1px 0 0 #BF0000, 0 1px 0 0 #BF0000;
 			}
 
 			.wrapper.spotlight:after {
-				box-shadow: inset 0 -1px 0 0 #964c4c, 0 1px 0 0 #964c4c;
+				box-shadow: inset 0 -1px 0 0 #BF0000, 0 1px 0 0 #BF0000;
 			}
 
 			.wrapper.spotlight .inner {
@@ -3844,7 +3844,7 @@ input, select, textarea {
 				}
 
 			.wrapper.spotlight.style3 {
-				background-color: #661e1e;
+				background-color: #BF0000;
 			}
 
 				.wrapper.spotlight.style3:before, .wrapper.spotlight.style3:after {
@@ -3852,15 +3852,15 @@ input, select, textarea {
 				}
 
 				.wrapper.spotlight.style3:before {
-					box-shadow: inset 0 -1px 0 0 #661e1e, 0 1px 0 0 #661e1e;
+					box-shadow: inset 0 -1px 0 0 #BF0000, 0 1px 0 0 #BF0000;
 				}
 
 				.wrapper.spotlight.style3:after {
-					box-shadow: inset 0 -1px 0 0 #661e1e, 0 1px 0 0 #661e1e;
+					box-shadow: inset 0 -1px 0 0 #BF0000, 0 1px 0 0 #BF0000;
 				}
 
 			.wrapper.spotlight.style4 {
-				background-color: #7c3939;
+				background-color: #E30220;
 			}
 
 				.wrapper.spotlight.style4:before, .wrapper.spotlight.style4:after {
@@ -3868,15 +3868,15 @@ input, select, textarea {
 				}
 
 				.wrapper.spotlight.style4:before {
-					box-shadow: inset 0 -1px 0 0 #7c3939, 0 1px 0 0 #7c3939;
+					box-shadow: inset 0 -1px 0 0 #E30220, 0 1px 0 0 #E30220;
 				}
 
 				.wrapper.spotlight.style4:after {
-					box-shadow: inset 0 -1px 0 0 #7c3939, 0 1px 0 0 #7c3939;
+					box-shadow: inset 0 -1px 0 0 #E30220, 0 1px 0 0 #E30220;
 				}
 
 			.wrapper.spotlight.style5 {
-				background-color: #723232;
+				background-color: #E30220;
 			}
 
 				.wrapper.spotlight.style5:before, .wrapper.spotlight.style5:after {
@@ -3884,11 +3884,11 @@ input, select, textarea {
 				}
 
 				.wrapper.spotlight.style5:before {
-					box-shadow: inset 0 -1px 0 0 #723232, 0 1px 0 0 #723232;
+					box-shadow: inset 0 -1px 0 0 #E30220, 0 1px 0 0 #E30220;
 				}
 
 				.wrapper.spotlight.style5:after {
-					box-shadow: inset 0 -1px 0 0 #723232, 0 1px 0 0 #723232;
+					box-shadow: inset 0 -1px 0 0 #E30220, 0 1px 0 0 #E30220;
 				}
 
 			.wrapper.spotlight.style6 {
@@ -4071,7 +4071,7 @@ input, select, textarea {
 
 		#footer {
 			background-color: #242024;
-			background-image: linear-gradient(to top, rgba(110, 15, 15, 0.8), rgba(110, 15, 15, 0.8)), url("../../images/bg.jpg");
+			background-image: linear-gradient(to top, rgba(227, 2, 32, 0.8), rgba(227, 2, 32, 0.8)), url("../../images/bg.jpg");
 			background-size: auto,
  cover;
 			background-position: center,
@@ -4154,6 +4154,7 @@ input, select, textarea {
 		}
 
 	}
+
 
 
 
