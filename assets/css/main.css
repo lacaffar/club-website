@@ -2212,7 +2212,7 @@ input, select, textarea {
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #5b6ba6;
+			border-color: #BF0000;
 		}
 
 	select {
@@ -4154,5 +4154,6 @@ input, select, textarea {
 		}
 
 	}
+
 
 
