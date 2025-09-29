@@ -2409,6 +2409,10 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+		.icon img {
+			object-fit: contain;
+		}
+
 /* Image */
 
 	.image {
@@ -4154,6 +4158,7 @@ input, select, textarea {
 		}
 
 	}
+
 
 
 
