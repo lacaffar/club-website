@@ -17,7 +17,7 @@ GOALS:
 
 3. Fix title (Description in Issues)
 
-4. Fix menu bar color (Description in Issues)
+4. Fix menu bar color (Description in Issues) - Fixed
 
 Also if you think its better to scrap the HTML website and switch over to wordpress/smth else, experiment with it. YOU (calvin & aiden) got this!! I'm counting on you guys
 
