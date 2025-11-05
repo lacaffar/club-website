@@ -5,10 +5,10 @@ P.S. I would create a issue on github whenever you start a task, then when you f
 GOALS:
 
 1. Organize the pages:  (Just make sure all link correctly and change the old ones in the github repository to "elementsARCHIVED"
--Home
--About (includes what we do, that we compete in CWC, and our short history) 
--Our team. One main page with three links to our three teams: (Mechanical, Electrical, Site Development) Then on the team pages, everyone gets their own spot. 
--Competition. Short Description of the competition.
+-Home -- Finished
+-About (includes what we do, that we compete in CWC, and our short history)  -- Finished
+-Our team. One main page with three links to our three teams: (Mechanical, Electrical, Site Development) Then on the team pages, everyone gets their own spot. -- WIP
+-Competition. Short Description of the competition. -- Finished
 -Join us link that links to this google form (THIS LINK IS FOR EDITORS-NOT POTENTIAL MEMBERS) 
     - https://docs.google.com/forms/d/1yVo103SPv000tlanYF1Biw337JqTVMYz3yi0SuTDKZ0/edit
 -Support us (Industry Sponsors will be very important for us) We will have to include a "Sponsor Packet" later on
@@ -17,7 +17,7 @@ GOALS:
 
 3. Fix title (Description in Issues)
 
-4. Fix menu bar color (Description in Issues)
+4. Fix menu bar color (Description in Issues) -- Finished
 
 Also if you think its better to scrap the HTML website and switch over to wordpress/smth else, experiment with it. YOU (calvin & aiden) got this!! I'm counting on you guys
 
